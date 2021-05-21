@@ -23,3 +23,5 @@ Dramatis Personae
   Cornelius, courtier.  
   Rosencrantz, courtier.  
   Guildenstern, courtier.  
+
+etc.
